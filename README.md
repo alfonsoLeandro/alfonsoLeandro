@@ -26,7 +26,7 @@
 <h1>Some of my Github stats</h1>
 
 <div style="display: flex; flex-direction: row">
-<img src="https://github-readme-stats.vercel.app/api?username=alfonsoLeandro"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoLeandro"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=alfonsoLeandro&count_private=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoLeandro&count_private=true"></img>
 
 </div>
