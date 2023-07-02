@@ -2,7 +2,7 @@
 
 <h3><strong>About me</strong></h3>
 
-- I am currently 20 years old, working @ <strong><a href="https://scanntech.com/">Scanntech</a></strong> and studying @ <strong><a href="https://ucu.edu.uy/es">Universidad Católica del Uruguay</a></strong>.
+- I am currently 21 years old, working @ <strong><a href="https://scanntech.com/">Scanntech</a></strong> and studying @ <strong><a href="https://ucu.edu.uy/es">Universidad Católica del Uruguay</a></strong>.
 
 
 <h3><strong>Currently learning</strong></h3>
