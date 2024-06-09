@@ -18,6 +18,7 @@ Some other fields I have experience with are: managing and using <a href="https:
 
 <h3><strong>Currently learning</strong></h3>
 
+- <img style="width: 1rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"/> Figma
 - I keep learning all of the technologies I know everyday as I keep using them.
 
 
